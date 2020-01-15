@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vignesh-az/test.git"
+    "url": "git+https://github.com/vignesh-az/test.git",
+    "script":"eslint"
   },
   "author": "",
   "license": "ISC",

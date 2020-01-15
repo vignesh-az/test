@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vignesh-az/test.git",
-    "script":"eslint"
+    "lint":"eslint"
   },
   "author": "",
   "license": "ISC",
